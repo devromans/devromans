@@ -3,8 +3,8 @@
   <a href="https://rshopin.com">
     <img src="https://img.shields.io/badge/homepage-000000.svg?&style=for-the-badge&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/devromans">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+  <a href="https://mastodon.social/@devromans">
+    <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/devromans/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
