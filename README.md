@@ -6,7 +6,7 @@
   <a href="https://mastodon.social/@devromans">
     <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/devromans/">
+  <a href="https://www.linkedin.com/in/rshopin/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/devromans/">
